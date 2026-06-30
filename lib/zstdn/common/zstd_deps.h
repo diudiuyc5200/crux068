@@ -26,7 +26,6 @@
 #ifndef ZSTD_DEPS_COMMON
 #define ZSTD_DEPS_COMMON
 
-#include <linux/types.h>
 #include <linux/limits.h>
 #include <linux/stddef.h>
 
