@@ -44,7 +44,7 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/string.h>
-#include "include/xxhash.h"
+#include "xxhash.h"
 
 /*-*************************************
  * Macros
